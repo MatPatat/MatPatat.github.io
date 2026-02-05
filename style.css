@@ -1,12 +1,4 @@
 <style>
-  body {
-    background: #9db526;
-    font-family: Arial, sans-serif;
-  }
-p {
-  color: green;
-  background: #9db526;
-}
 .hangingindent {
   padding-left: 22px ;
   text-indent: -22px ;
